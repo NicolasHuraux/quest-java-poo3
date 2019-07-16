@@ -32,7 +32,7 @@ public class Penguin extends Bird implements Swim {
             System.out.printf("%s dives into the water.%n", this.getName());
         }
     }
-
+ 
     /**
      * swim downward
      * @param meters depths increase

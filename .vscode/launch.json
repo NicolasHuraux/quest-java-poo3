@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nature",
+            "request": "launch",
+            "mainClass": "Nature"
+        }
+    ]
+}
